@@ -1,0 +1,163 @@
+.bb030ab0f878545631b980550447e0-icon {
+  position: absolute;
+  top: 187px;
+  left: -185.3px;
+  width: 475.3px;
+  height: 492.2px;
+  object-fit: contain;
+}
+.e186b48f5f00f06e1c8de500cc8686-icon {
+  position: absolute;
+  top: 372.3px;
+  left: 35.7px;
+  width: 478.6px;
+  height: 496px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ed630322bd1f4d048e1267f16-1-icon,
+.ef51c3e2051c8856914f189d124a2f-icon {
+  position: absolute;
+  top: 555.1px;
+  left: 254.3px;
+  width: 478.8px;
+  height: 496.4px;
+  object-fit: contain;
+  z-index: 2;
+}
+.ef51c3e2051c8856914f189d124a2f-icon {
+  top: 145.6px;
+  left: 310.9px;
+  width: 394.1px;
+  height: 395.7px;
+}
+.e38ed9da4627336e1b9837c5f-1-icon,
+.ef51c3e2051c8856914f189d124a2f-icon1 {
+  position: absolute;
+  top: 0;
+  left: 89px;
+  width: 360.4px;
+  height: 355.6px;
+  object-fit: contain;
+  z-index: 3;
+}
+.e38ed9da4627336e1b9837c5f-1-icon {
+  top: 232px;
+  left: 528px;
+  width: 475.4px;
+  height: 492.3px;
+}
+.ffe8f7df67b3d1dd1f20cb29ba2e68-icon {
+  position: absolute;
+  top: 413px;
+  left: 745px;
+  width: 476.3px;
+  height: 493.4px;
+  object-fit: contain;
+  z-index: 4;
+}
+.acf3d7ba1654990445ba2c5e23719b-icon,
+.edd992aee8f6b1dbdd91377b26462a-icon {
+  position: absolute;
+  top: 738px;
+  left: 427px;
+  width: 524.7px;
+  height: 551px;
+  object-fit: contain;
+  z-index: 5;
+}
+.edd992aee8f6b1dbdd91377b26462a-icon {
+  top: 134px;
+  left: 1017px;
+  width: 438.3px;
+  height: 448px;
+}
+.b44a51b49b657240c752bdc600e206-icon {
+  position: absolute;
+  top: 124px;
+  left: 858px;
+  width: 275.5px;
+  height: 275.5px;
+  object-fit: contain;
+  z-index: 6;
+}
+.b44a51b49b657240c752bdc600e206-icon1 {
+  position: absolute;
+  top: 697px;
+  left: -145px;
+  width: 387.4px;
+  height: 387.4px;
+  object-fit: contain;
+  z-index: 2;
+}
+.c34711af543ec5a85601ca2fc81c20-icon,
+.ef51c3e2051c8856914f189d124a2f-icon2 {
+  position: absolute;
+  top: 511px;
+  left: -340px;
+  width: 360.4px;
+  height: 355.6px;
+  object-fit: contain;
+  z-index: 3;
+}
+.c34711af543ec5a85601ca2fc81c20-icon {
+  top: 880px;
+  left: 156px;
+  width: 182.2px;
+  height: 185.8px;
+}
+.d32c1adaacd1fe52d625d560e6d044-icon {
+  position: absolute;
+  top: 594px;
+  left: 960px;
+  width: 475.8px;
+  height: 492.8px;
+  object-fit: contain;
+  z-index: 5;
+}
+.edd992aee8f6b1dbdd91377b26462a-icon1 {
+  position: absolute;
+  top: 786px;
+  left: 1202px;
+  width: 438.3px;
+  height: 448px;
+  object-fit: contain;
+  z-index: 6;
+}
+.d4957f5b32fc2d9aca5b88062a654a-icon,
+.edd992aee8f6b1dbdd91377b26462a-icon2 {
+  position: absolute;
+  top: 919px;
+  left: 730px;
+  width: 438.3px;
+  height: 448px;
+  object-fit: contain;
+  z-index: 6;
+}
+.d4957f5b32fc2d9aca5b88062a654a-icon {
+  top: 454px;
+  left: 1231px;
+  width: 245.9px;
+  height: 245.9px;
+}
+.image-row {
+  height: 930px;
+  width: 1344px;
+  position: absolute;
+  margin: 0 !important;
+  top: -326px;
+  right: 2px;
+}
+.image-row-wrapper {
+  position: absolute;
+  top: 1786px;
+  left: -10px;
+  background-color: var(--color-black);
+  width: 1356px;
+  height: 624px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}

@@ -1,0 +1,134 @@
+.egg-curry,
+.ratings19 {
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.egg-curry {
+  height: 63px;
+  flex: 1;
+  position: relative;
+  text-transform: uppercase;
+  z-index: 2;
+}
+.ratings19 {
+  height: 20px;
+  width: 86px;
+  position: absolute;
+  margin: 0 !important;
+  right: 72px;
+  bottom: -17px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-open-sans);
+  color: var(--color-darkslategray);
+  z-index: 3;
+}
+.egg-curry-parent {
+  width: 291px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-child111 {
+  height: 28px;
+  width: 124px;
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-goldenrod-300);
+  border: 1px solid var(--color-goldenrod-200);
+  box-sizing: border-box;
+  display: none;
+}
+.frame-child112 {
+  height: 22px;
+  width: 118px;
+  position: relative;
+  z-index: 3;
+}
+.rectangle-parent93 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-goldenrod-300);
+  border: 1px solid var(--color-goldenrod-200);
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-11xs) var(--padding-11xs);
+  z-index: 1;
+}
+.frame-parent71,
+.frame-wrapper66,
+.rectangle-parent93 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper66 {
+  flex-direction: column;
+  padding: var(--padding-36xl) 0 0;
+  margin-left: -288px;
+}
+.frame-parent71 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.div14,
+.pcs2 {
+  position: relative;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.div14 {
+  align-self: stretch;
+  width: 95px;
+  z-index: 1;
+}
+.pcs2 {
+  height: 45px;
+  flex: 1;
+  color: var(--color-darkgray);
+  z-index: 4;
+}
+.frame-parent70,
+.parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.parent {
+  width: 272px;
+  height: 45px;
+  flex-direction: row;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-google-sans);
+}
+.frame-parent70 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-19xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-beqiner);
+}
+@media screen and (max-width: 750px) {
+  .egg-curry {
+    font-size: var(--font-size-13xl);
+  }
+  .div14,
+  .pcs2 {
+    font-size: var(--font-size-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .egg-curry {
+    font-size: var(--font-size-5xl);
+  }
+  .div14,
+  .pcs2 {
+    font-size: var(--font-size-2xl);
+  }
+  .frame-parent70 {
+    gap: var(--gap-lgi);
+  }
+}

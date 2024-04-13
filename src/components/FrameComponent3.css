@@ -1,0 +1,197 @@
+.bbe1cc5a9c070dab42c553c9551b7b-icon {
+  height: 564px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 367px;
+  z-index: 8;
+}
+.offers,
+.special {
+  position: relative;
+  font-weight: 600;
+}
+.special {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+  z-index: 9;
+}
+.offers {
+  z-index: 10;
+}
+.decryption-engine {
+  width: 329px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -28px;
+  font-size: var(--font-size-21xl);
+}
+.layout-manager1,
+.password-generator {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.password-generator {
+  flex-direction: column;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.layout-manager1 {
+  flex-direction: row;
+  padding: 0 var(--padding-5xs) var(--padding-42xl);
+  box-sizing: border-box;
+}
+.worth {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  background: linear-gradient(180deg, rgba(255, 122, 0, 0) 15.03%, #ff7a00),
+    #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 1px 0 0#ffab5e, 0 1px 0#ffab5e, -1px 0 0#ffab5e, 0-1px 0#ffab5e;
+  z-index: 9;
+}
+.image-enlarger {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-48xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.music-maker {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-181xl);
+  text-shadow: 1px 0 0#ffab5e, 0 1px 0#ffab5e, -1px 0 0#ffab5e, 0-1px 0#ffab5e;
+  z-index: 10;
+  margin-top: -46px;
+}
+.image-compressor,
+.on-starters {
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.image-compressor {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  margin-top: -35px;
+  font-size: var(--font-size-46xl);
+  color: var(--color-burlywood);
+}
+.on-starters {
+  position: relative;
+  background: linear-gradient(180deg, #ff7a00, rgba(255, 122, 0, 0)), #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 1px 0 0#ffab5e, 0 1px 0#ffab5e, -1px 0 0#ffab5e, 0-1px 0#ffab5e;
+  z-index: 9;
+}
+.on-starters-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-53xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -35px;
+  font-size: var(--font-size-16xl);
+}
+.image-handler {
+  align-self: stretch;
+  flex-direction: column;
+}
+.bbe1cc5a9c070dab42c553c9551b7b-parent,
+.image-handler,
+.image-handler-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-handler-wrapper {
+  width: 395px;
+  flex-direction: column;
+  padding: var(--padding-22xl) 0 0;
+  box-sizing: border-box;
+  min-width: 395px;
+}
+.bbe1cc5a9c070dab42c553c9551b7b-parent {
+  position: absolute;
+  top: 1815px;
+  left: 64px;
+  width: 1117px;
+  flex-direction: row;
+  gap: var(--gap-139xl);
+  text-align: left;
+  font-size: var(--font-size-71xl);
+  color: var(--color-white);
+  font-family: var(--font-rethink-sans);
+}
+@media screen and (max-width: 1100px) {
+  .image-handler-wrapper {
+    flex: 1;
+  }
+  .bbe1cc5a9c070dab42c553c9551b7b-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .special {
+    font-size: var(--font-size-26xl);
+  }
+  .offers {
+    font-size: var(--font-size-13xl);
+  }
+  .worth {
+    font-size: var(--font-size-33xl);
+  }
+  .music-maker {
+    font-size: var(--font-size-61xl);
+  }
+  .on-starters {
+    font-size: var(--font-size-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .bbe1cc5a9c070dab42c553c9551b7b-icon {
+    min-width: 100%;
+  }
+  .special {
+    font-size: var(--font-size-8xl);
+  }
+  .offers {
+    font-size: var(--font-size-5xl);
+  }
+  .worth {
+    font-size: var(--font-size-20xl);
+  }
+  .music-maker {
+    font-size: var(--font-size-31xl);
+  }
+  .on-starters {
+    font-size: var(--font-size-2xl);
+  }
+  .image-handler-wrapper {
+    min-width: 100%;
+  }
+}
